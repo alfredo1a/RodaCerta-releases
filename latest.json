@@ -1,6 +1,6 @@
 {
-  "versionName": "1.7.9",
-  "notes": "Novidades da versão 1.7.9:\n• Atualizar ficou mais fácil: depois de liberar a permissão de instalar, é só voltar ao app que o download começa sozinho.\n• Tocar duas vezes em Atualizar não baixa o arquivo duas vezes.\n• Se o instalador não abrir sozinho, toque na notificação do download para instalar.\n• \"Depois\" no aviso de versão nova deixa de perguntar por 24 horas.",
-  "apk": "RodaCerta-1.7.9.apk",
-  "size": 46473808
+  "versionName": "1.8.1",
+  "notes": "Novidades da versão 1.8.1:\n• Atualização mais confiável: o próprio app baixa a versão nova (com a porcentagem na notificação), mesmo com o celular quente. Antes o Android podia segurar o download.\n• Depois de liberar a permissão de instalar, o download começa sozinho.\n• Corrida aceita \"em sequência\" na Uber (durante outra viagem) agora é registrada: começa sozinha quando a atual termina.\n• Se o leitor não perceber o embarque, a corrida não se perde mais: fica registrada com o aviso \"confira os km\".\n• Aviso \"Parado há X sem corrida\" volta a funcionar com o carro estacionado.",
+  "apk": "RodaCerta-1.8.1.apk",
+  "size": 46475372
 }
