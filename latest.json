@@ -1,6 +1,6 @@
 {
-  "versionName": "1.7.6",
-  "notes": "Novidades da versão 1.7.6:\n• O app agora se atualiza sozinho: quando sair versão nova, ele avisa e instala por cima (seus dados continuam).\n• Em Ajustes > Procurar atualização você confere na hora.\n• Balão: deslizar para o lado fecha só o balão que você arrastou.",
-  "apk": "RodaCerta-1.7.6.apk",
-  "size": 46470928
+  "versionName": "1.7.7",
+  "notes": "Novidades da versão 1.7.7:\n• Corrige a versão 1.7.6, que saiu sem a parte nova do leitor: agora o app procura e instala as atualizações sozinho de verdade.\n• Entram as melhorias do leitor que tinham ficado de fora: lista de Solicitações da 99, endereços mais limpos e balão que não tampa o X da 99.\n• Balão: deslizar para o lado fecha só o balão que você arrastou.",
+  "apk": "RodaCerta-1.7.7.apk",
+  "size": 46470948
 }
