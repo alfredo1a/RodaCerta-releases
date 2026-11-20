@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8.6",
-  "notes": "Novidades da versão 1.8.6:\n• Lista de Solicitações da 99: em vez de um balão trocando a cada corrida, aparece um resumo com todas as corridas da lista, uma por linha (✅/⚠️/❌, valor, R$/km, busca e viagem), a melhor primeiro.\n• Ao tocar numa corrida da lista, aparece o balão completo dela.\n• Inclui a 1.8.5 (a leitura da tela não para mais com o celular quente).",
-  "apk": "RodaCerta-1.8.6.apk",
+  "versionName": "1.8.7",
+  "notes": "Novidades da versão 1.8.7:\n• Lista da 99 \"Escolha uma\" (com botão Escolher em cada corrida) agora também mostra o balão-resumo com todas as corridas, sem ficar trocando.\n• Inclui a 1.8.6 (resumo da lista de Solicitações) e a 1.8.5 (leitura da tela se recupera sozinha com o celular quente — confirmado no teste ao vivo).",
+  "apk": "RodaCerta-1.8.7.apk",
   "size": 46491756
 }
