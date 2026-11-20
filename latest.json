@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8.4",
-  "notes": "Novidades da versão 1.8.4 (teste ao vivo, segunda rodada):\n• Oferta da Uber que aparece por cima da 99 (Envios, UberX) agora é registrada como Uber.\n• Banner \"Ganhe R$ 50 indicando\" da 99 não vira mais uma oferta falsa.\n• Lista da 99: distâncias com a vírgula apagada na leitura (\"55 km\" no lugar de \"5,5 km\") são corrigidas.\n• Uber: \"11l.7 km\" lido corretamente como 11,7 km (a busca não aparece mais zerada no balão).\n• Quando a busca não é lida, o balão mostra a distância calculada pelo R$/km que a Uber/99 exibe.\n• Inclui tudo da 1.8.3 (bolinha com o ícone do app, \"l\" no lugar do 1, corrida reoferecida com balão).",
-  "apk": "RodaCerta-1.8.4.apk",
+  "versionName": "1.8.5",
+  "notes": "Novidades da versão 1.8.5 (correção importante):\n• Corrige ofertas sem balão: com o celular quente (ou depois de um balão sumir), a leitura da tela podia parar e só voltar ao trocar de app. Agora ela se recupera sozinha.\n• Inclui tudo da 1.8.4 (Uber por cima da 99, banner \"Ganhe R$ 50\", distâncias com vírgula apagada, bolinha com o ícone do app).",
+  "apk": "RodaCerta-1.8.5.apk",
   "size": 46491756
 }
