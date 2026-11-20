@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8.3",
-  "notes": "Novidades da versão 1.8.3 (ajustes do teste ao vivo):\n• Corrige leitura de números com \"1\" confundido com a letra \"l\" (ex.: \"2.l km\", \"1l minutos\"). Isso fazia o R$/km sair errado e, numa corrida, o balão dizer ACEITAR quando devia recusar.\n• Quando a Uber/99 mostra o R$/km, o RodaCerta usa esse número para conferir a conta.\n• Bolinha flutuante mais discreta: com o valor escondido, mostra só o ícone do app (borda verde = online, cinza = offline, laranja = pausado).\n• Inclui as correções da 1.8.2 (balão volta quando a corrida é reoferecida, lista da 99 sem alternar, viagens de mais de 1 hora, nota da 99).",
-  "apk": "RodaCerta-1.8.3.apk",
-  "size": 46491760
+  "versionName": "1.8.4",
+  "notes": "Novidades da versão 1.8.4 (teste ao vivo, segunda rodada):\n• Oferta da Uber que aparece por cima da 99 (Envios, UberX) agora é registrada como Uber.\n• Banner \"Ganhe R$ 50 indicando\" da 99 não vira mais uma oferta falsa.\n• Lista da 99: distâncias com a vírgula apagada na leitura (\"55 km\" no lugar de \"5,5 km\") são corrigidas.\n• Uber: \"11l.7 km\" lido corretamente como 11,7 km (a busca não aparece mais zerada no balão).\n• Quando a busca não é lida, o balão mostra a distância calculada pelo R$/km que a Uber/99 exibe.\n• Inclui tudo da 1.8.3 (bolinha com o ícone do app, \"l\" no lugar do 1, corrida reoferecida com balão).",
+  "apk": "RodaCerta-1.8.4.apk",
+  "size": 46491756
 }
