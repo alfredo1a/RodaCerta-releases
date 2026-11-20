@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8.1",
-  "notes": "Novidades da versão 1.8.1:\n• Atualização mais confiável: o próprio app baixa a versão nova (com a porcentagem na notificação), mesmo com o celular quente. Antes o Android podia segurar o download.\n• Depois de liberar a permissão de instalar, o download começa sozinho.\n• Corrida aceita \"em sequência\" na Uber (durante outra viagem) agora é registrada: começa sozinha quando a atual termina.\n• Se o leitor não perceber o embarque, a corrida não se perde mais: fica registrada com o aviso \"confira os km\".\n• Aviso \"Parado há X sem corrida\" volta a funcionar com o carro estacionado.",
-  "apk": "RodaCerta-1.8.1.apk",
+  "versionName": "1.8.2",
+  "notes": "Novidades da versão 1.8.2 (ajustes do teste ao vivo):\n• Quando a 99 (ou a Uber) oferece de novo a mesma corrida, o balão aparece de novo.\n• Lista de Solicitações da 99 com várias corridas: o balão não fica mais trocando entre elas.\n• Uber: viagens de mais de 1 hora (ex.: Envios para outra cidade) agora são lidas e mostram o balão.\n• 99: a nota do passageiro é lida mesmo quando aparece como \"4,82- 683 corridas\".",
+  "apk": "RodaCerta-1.8.2.apk",
   "size": 46475372
 }
