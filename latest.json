@@ -1,6 +1,6 @@
 {
-  "versionName": "1.7.8",
-  "notes": "Novidades da versão 1.7.8:\n• Atualização automática testada: o app baixa e instala as versões novas sozinho.\n• Inclui todas as melhorias do leitor da 1.7.7 (lista de Solicitações da 99, endereços mais limpos, balão que não tampa o X da 99, deslizar para fechar).",
-  "apk": "RodaCerta-1.7.8.apk",
-  "size": 46470948
+  "versionName": "1.7.9",
+  "notes": "Novidades da versão 1.7.9:\n• Atualizar ficou mais fácil: depois de liberar a permissão de instalar, é só voltar ao app que o download começa sozinho.\n• Tocar duas vezes em Atualizar não baixa o arquivo duas vezes.\n• Se o instalador não abrir sozinho, toque na notificação do download para instalar.\n• \"Depois\" no aviso de versão nova deixa de perguntar por 24 horas.",
+  "apk": "RodaCerta-1.7.9.apk",
+  "size": 46473808
 }
