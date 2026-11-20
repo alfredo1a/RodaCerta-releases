@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8.5",
-  "notes": "Novidades da versão 1.8.5 (correção importante):\n• Corrige ofertas sem balão: com o celular quente (ou depois de um balão sumir), a leitura da tela podia parar e só voltar ao trocar de app. Agora ela se recupera sozinha.\n• Inclui tudo da 1.8.4 (Uber por cima da 99, banner \"Ganhe R$ 50\", distâncias com vírgula apagada, bolinha com o ícone do app).",
-  "apk": "RodaCerta-1.8.5.apk",
+  "versionName": "1.8.6",
+  "notes": "Novidades da versão 1.8.6:\n• Lista de Solicitações da 99: em vez de um balão trocando a cada corrida, aparece um resumo com todas as corridas da lista, uma por linha (✅/⚠️/❌, valor, R$/km, busca e viagem), a melhor primeiro.\n• Ao tocar numa corrida da lista, aparece o balão completo dela.\n• Inclui a 1.8.5 (a leitura da tela não para mais com o celular quente).",
+  "apk": "RodaCerta-1.8.6.apk",
   "size": 46491756
 }
