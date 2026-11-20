@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8.7",
-  "notes": "Novidades da versão 1.8.7:\n• Lista da 99 \"Escolha uma\" (com botão Escolher em cada corrida) agora também mostra o balão-resumo com todas as corridas, sem ficar trocando.\n• Inclui a 1.8.6 (resumo da lista de Solicitações) e a 1.8.5 (leitura da tela se recupera sozinha com o celular quente — confirmado no teste ao vivo).",
-  "apk": "RodaCerta-1.8.7.apk",
+  "versionName": "1.8.8",
+  "notes": "Novidades da versão 1.8.8:\n• Se você aceitar uma corrida com o RodaCerta fechado, aparece a notificação \"Corrida aceita — abra o RodaCerta\". Um toque abre o app e o turno e os km do GPS começam a contar. (A corrida nunca se perde: fica guardada e é registrada quando o app abre.)\n• Inclui a 1.8.7 (resumo das listas da 99) e a 1.8.5 (leitura da tela se recupera sozinha com o celular quente).",
+  "apk": "RodaCerta-1.8.8.apk",
   "size": 46491756
 }
