@@ -1,6 +1,6 @@
 {
-  "versionName": "1.9.0",
-  "notes": "Novidades da versão 1.9.0:\n• Relatar um problema: diga \"deu erro\" ao Copiloto (ou vá em Ajustes) e mande o que aconteceu. Endereços, GPS, telefones e sua chave da IA ficam no celular.\n• Copiloto pode responder em voz alta: toque no alto-falante no topo do Copiloto (vem desligado).\n• Inclui a 1.8.8 (aviso para abrir o RodaCerta ao aceitar corrida com ele fechado).",
-  "apk": "RodaCerta-1.9.0.apk",
-  "size": 46515268
+  "versionName": "1.9.1",
+  "notes": "Novidades da versão 1.9.1:\n• Copiloto entende muito mais perguntas sem internet: voz, balão, lista da 99, km automático, metas, carro, combustível, lucro, médias e \"essa corrida compensa?\".\n• Dicas mais certas: leituras impossíveis (ex.: um banner \"Ganhe R$ 50\" lido como oferta) não entram mais nas contas de melhor horário e média.",
+  "apk": "RodaCerta-1.9.1.apk",
+  "size": 46540564
 }
