@@ -1,6 +1,6 @@
 {
-  "versionName": "1.9.1",
-  "notes": "Novidades da versão 1.9.1:\n• Copiloto entende muito mais perguntas sem internet: voz, balão, lista da 99, km automático, metas, carro, combustível, lucro, médias e \"essa corrida compensa?\".\n• Dicas mais certas: leituras impossíveis (ex.: um banner \"Ganhe R$ 50\" lido como oferta) não entram mais nas contas de melhor horário e média.",
-  "apk": "RodaCerta-1.9.1.apk",
-  "size": 46540564
+  "versionName": "1.9.2",
+  "notes": "Novidades da versão 1.9.2:\n• Pergunte falando: toque no microfone ao lado do campo do Copiloto, fale a pergunta e ele responde em voz alta — sem tirar as mãos do volante.\n• Inclui a 1.9.1 (Copiloto entende muito mais perguntas e dicas sem ofertas impossíveis).",
+  "apk": "RodaCerta-1.9.2.apk",
+  "size": 46566436
 }
