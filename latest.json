@@ -1,6 +1,6 @@
 {
-  "versionName": "1.9.2",
-  "notes": "Novidades da versão 1.9.2:\n• Pergunte falando: toque no microfone ao lado do campo do Copiloto, fale a pergunta e ele responde em voz alta — sem tirar as mãos do volante.\n• Inclui a 1.9.1 (Copiloto entende muito mais perguntas e dicas sem ofertas impossíveis).",
-  "apk": "RodaCerta-1.9.2.apk",
-  "size": 46566436
+  "versionName": "1.9.3",
+  "notes": "Novidades da versão 1.9.3:\n• Teste fechado: celulares novos pedem um código de acesso, que vale só naquele celular. Quem já usava o RodaCerta continua liberado.\n• Ajustes → Acesso ao app: mostra o código do aparelho e até quando o acesso vale; perto de vencer, o app avisa.\n• Inclui a 1.9.2 (pergunta por voz no Copiloto e muitas perguntas novas).",
+  "apk": "RodaCerta-1.9.3.apk",
+  "size": 46730388
 }
