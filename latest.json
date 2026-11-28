@@ -1,6 +1,6 @@
 {
-  "versionName": "1.9.4",
-  "notes": "Novidades da versão 1.9.4:\n• Relatar um problema agora chega direto ao desenvolvedor (sem endereços nem dados pessoais). Sem internet, o relato espera e é enviado depois.\n• O diário técnico do relato não mostra mais quais outros apps você usa (só Uber, 99 e o RodaCerta).\n• Campo do código de acesso com traços automáticos, contador e botão Limpar.\n• Inclui a 1.9.3 (teste fechado com código de acesso por aparelho).",
-  "apk": "RodaCerta-1.9.4.apk",
+  "versionName": "1.9.5",
+  "notes": "Novidades da versão 1.9.5:\n• Correção: abrir o app de PASSAGEIRO da 99 não aciona mais o RodaCerta (o leitor agora só olha os apps de motorista).\n• Inclui a 1.9.4 (relatar um problema direto ao desenvolvedor, sem dados pessoais).",
+  "apk": "RodaCerta-1.9.5.apk",
   "size": 46733100
 }
